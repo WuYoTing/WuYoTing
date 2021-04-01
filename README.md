@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Tim
 
-<!--
-**WuYoTing/WuYoTing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a software engineer 💻 from **Taiwan** 🇹🇼 <br>
+love to play 🎮 <br> 
+break dance 💃 <br> 
+my current side project is  [isthereanyclothes](https://isthereanyclothes.site/home)
 
-Here are some ideas to get you started:
+[LinkedIn 💼](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Github Blog 🌍](https://wuyoting.github.io/)
+
+[Email 📬](mailto:hakosaki314@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuYoTing&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=WuYoTing&show_icons=true&theme=gruvbox)](https://github.com/WuYoTing/)  <br> 
+---
