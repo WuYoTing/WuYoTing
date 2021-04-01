@@ -11,6 +11,6 @@ my current side project is  [isthereanyclothes](https://isthereanyclothes.site/h
 
 [Email 📬](mailto:hakosaki314@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuYoTing&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=WuYoTing&show_icons=true&theme=gruvbox)](https://github.com/WuYoTing/)  <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuYoTing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=WuYoTing&show_icons=true&theme=gruvbox)](https://github.com/WuYoTing/)
 ---
