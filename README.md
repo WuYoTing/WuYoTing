@@ -7,6 +7,8 @@ my current side project is  [isthereanyclothes](https://isthereanyclothes.site/h
 
 [LinkedIn 💼](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
 
+[Gitlab 💪](https://gitlab.com/WuYoTing)
+
 [Github Blog 🌍](https://wuyoting.github.io/)
 
 [Email 📬](mailto:hakosaki314@gmail.com)
