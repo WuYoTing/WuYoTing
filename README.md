@@ -1,18 +1,22 @@
-### Hi there 👋 I'm Tim
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">A software engineer 💻 from Taiwan</h3>
+<h4>
+love to play 🎮 , break dance 💃
+</h4>
 
-a software engineer 💻 from **Taiwan** 🇹🇼 <br>
-love to play 🎮 <br> 
-break dance 💃 <br> 
-my current side project is  [isthereanyclothes](https://isthereanyclothes.site/home)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wuyoting&label=Profile%20views&color=0e75b6&style=flat" alt="wuyoting" /> </p>
 
-[LinkedIn 💼](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
 
-[Gitlab 💪](https://gitlab.com/WuYoTing)
+- 🌱 Learning **Angular & Typescript**
 
-[Github Blog 🌍](https://wuyoting.github.io/)
+- 📝 [WuYoTing.github.io](WuYoTing.github.io)
 
-[Email 📬](mailto:hakosaki314@gmail.com)
+- 📫 **hakosaki314@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuYoTing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=WuYoTing&show_icons=true&theme=gruvbox)](https://github.com/WuYoTing/)
----
+- 📄 [Linkin](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyoting&show_icons=true&locale=en&layout=compact" alt="wuyoting" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyoting&show_icons=true&locale=en" alt="wuyoting" /></p>
