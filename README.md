@@ -14,9 +14,3 @@ love to play 🎮 , break dance 💃
 - 📫 **hakosaki314@gmail.com**
 
 - 📄 [Linkin](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuyoting&show_icons=true&locale=en&layout=compact" alt="wuyoting" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wuyoting&show_icons=true&locale=en" alt="wuyoting" /></p>
