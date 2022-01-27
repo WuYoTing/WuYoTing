@@ -13,4 +13,4 @@ love to play 🎮 , break dance 💃
 
 - 📫 **hakosaki314@gmail.com**
 
-- 📄 [Linkin](https://www.linkedin.com/in/wu-you-ting-75a49116b/)
+- 📄 [LinkedIn](https://www.linkedin.com/in/wu-y-75a49116b)
